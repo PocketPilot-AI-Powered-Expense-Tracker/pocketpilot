@@ -3,7 +3,7 @@
 Living record of what the project is, what is built, and what is left.
 **Update this file every time the project changes** (add a line to the change log too).
 
-Last updated: 2026-11-26 (project report)
+Last updated: 2026-11-26 (GitHub)
 
 ## What it is
 
@@ -86,7 +86,7 @@ Later changes from local testing:
 
 ## What is remaining
 
-- Git repository + push to GitHub (not started).
+- Git repository: done — https://github.com/muskgpt-oss/pocketpilot (public, branch main).
 - Deploy: Render (backend), Vercel (frontend), Atlas Network Access `0.0.0.0/0`, live smoke test.
 - Android companion app for real UPI notification detection — design only in
   `android-companion/README.md`, nothing built.
@@ -108,6 +108,8 @@ Later changes from local testing:
   (Network Access → Add IP Address → Add Current IP Address), then restart the backend.
 
 ## Change log
+
+- 2026-11-26 — Initialised git and pushed to https://github.com/muskgpt-oss/pocketpilot (public). backend/.env is gitignored.
 
 - 2026-11-26 — Single-author version of the report: Muskaan Gupta only, guide Prof. Yatish Jain, saved as ~/Downloads/PocketPilot_GenAI_Project_Report_Muskaan_Gupta.pdf and .docx (the two-author version is kept).
 
